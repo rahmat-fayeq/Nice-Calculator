@@ -1,2 +1,2 @@
 # Nice-Calculator
-The Nice-Calculator has been made by using HTML5,CSS3 &amp; jQuery library of JavaScript language. 
+The Nice-Calculator has been made by using HTML5,CSS3 &amp; jQuery library of JavaScript language and perform all basic operations very nicely.
